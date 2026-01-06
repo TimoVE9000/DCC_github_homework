@@ -1,4 +1,4 @@
-def tjbfun2(x):
+def pyfun_TimoVE9000(x):
     """Sum a length-5 integer sequence and return list with sum repeated 5 times."""
     if not hasattr(x, '__len__'):
         raise TypeError('Input must be a sequence')
