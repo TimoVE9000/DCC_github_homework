@@ -20,12 +20,8 @@ data = fun_TimoVE9000(data)
 result=rbind (result, data)
 
 #Python Function by TimoVE9000
-data=tjbfun2(data)
+data=pyfun_TimoVE9000(data)
 result=rbind (result, data)
-
-
-
-
 
 
 
