@@ -8,7 +8,7 @@ To be able to do this you need to be added as a collaborator: make sure that you
 Remember to make regular small commits 
 
 ### STEP 2: Add an R or Python function
-Please create a new file which contains a python or R function that takes a vector of 5 integers as an input, processes these 5 integers somehow and then returns a vector of 5 integers.
+Please create a new file which contains a python or R function that takes a vector of 5 integers as an input, processes these 5 integers somehow and then returns a vector of 5 integers. Please make sure to name your function (inside the file) and the associated file as follows "fun_YOUR_GITHUB_USERNAME.r"  or "fun_YOUR_GITHUB_USERNAME.py"
 
 ### STEP 3: Add your function to the main_script.R
 Add your function to the list of functions imported into the main script (line 5 onwards). Note that the way to import the function depends on if you used R or Python in the previous step. 
